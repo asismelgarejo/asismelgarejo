@@ -1,16 +1,77 @@
-### Hi there 👋
+# <div align="center">🚀 Welcome to My Coding Playground! 🚀</div>
 
-<!--
-**asismelgarejo/asismelgarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github.com/your-username/your-repo/raw/main/assets/banner.gif" alt="Header Image" width="800" height="400">
+</div>
 
-Here are some ideas to get you started:
+## 👋 Hi there, I'm [Asis Melgarejo](https://asis-portfolio-landing.vercel.app/)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Full Stack Developer from Peru with over 2 years of hands-on experience. My journey in the coding universe has led me to specialize in a variety of technologies and methodologies. Let me give you a glimpse of my expertise:
+
+### 🚀 My Specializations:
+
+#### Golang Backend Development
+- **Frameworks:** Gin, Gorilla/Mux
+- **Technologies:** GraphQL, gRPC, Concurrency Programming with Goroutines
+- **Authentication:** Firebase, OAuth0, JWT, Session Cookies
+- **Command Line Apps:** Cobra
+
+#### TS/JS Backend Development
+- **Frameworks:** Nest.js, Node.js, Express.js
+- **Technologies:** GraphQL Apollo Server, Sequelize
+
+#### React Frontend Development
+- **Frameworks:** Next.js
+- **Libraries:** Framer Motion, React Query, React Hook Forms
+- **Authentication:** Firebase
+
+#### DevOps AWS
+- **CI/CD:** Continuous Integration and Continuous Deployment on AWS
+
+#### Databases
+- **Relational:** PostgreSQL, MySQL, SQLite
+- **NoSQL:** MongoDB, Redis, DynamoDB
+
+#### Message Brokers
+- **RabbitMQ, Apache Kafka**
+
+#### Containerization
+- **Docker and Kubernetes**
+
+#### Tools
+- **API Specification:** OpenAPI
+- **Testing & Debugging:** Postman
+- **Version Control:** Git, GitFlow
+
+### 🌟 My Programming Universe:
+
+- **Paradigms:** Functional, Event-Driven, DDD, TDD, OOP
+
+### 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/asismelgarejo/)
+[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-lightblue)](https://twitter.com/asismelgarejo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://asis-portfolio-landing.vercel.app/)
+
+### 📬 Let's Talk Code!
+
+- 💼 Currently working on something cool.
+- 📫 Reach me at: [your.email@example.com](asismelgarejo.com@gmail.com)
+
+### 📈 My GitHub Stats:
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+### 🌟 Fun Fact:
+
+I believe coding is not just about ones and zeros; it's about creating something that makes a difference.
+
+Thanks for stopping by! 😊
+
+<div align="center">
+  <img src="https://github.com/your-username/your-repo/raw/main/assets/footer.gif" alt="Footer Image" width="800" height="200">
+</div>
+
+---
+
+*Note: Replace placeholders like `[Your Name]`, `[Your Website]`, `[Your LinkedIn]`, `[Your Email]`, `[Your Twitter]`, `[Your Handle]`, `[Your Stats URL]`, `[Your Project URLs]`, `[Your GitHub Repo URL]`, and image URLs (`[Your Banner Image URL]`, `[Your Footer Image URL]`) with your actual information.*
