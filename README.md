@@ -49,9 +49,9 @@ I'm a passionate Full Stack Developer from Peru with over 2 years of hands-on ex
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/asismelgarejo/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourHandle-lightblue)](https://twitter.com/asismelgarejo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://asis-portfolio-landing.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asismelgarejo-blue)](https://www.linkedin.com/in/asismelgarejo/)
+[![Twitter](https://img.shields.io/badge/X-asismelgarejo-lightblue)](https://twitter.com/asismelgarejo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-asismelgarejo-green)](https://asis-portfolio-landing.vercel.app/)
 
 ### 📬 Let's Talk Code!
 
