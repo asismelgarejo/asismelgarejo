@@ -56,11 +56,7 @@ I'm a passionate Full Stack Developer from Peru with over 2 years of hands-on ex
 ### 📬 Let's Talk Code!
 
 - 💼 Currently working on something cool.
-- 📫 Reach me at: [your.email@example.com](asismelgarejo.com@gmail.com)
-
-### 📈 My GitHub Stats:
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+- 📫 Reach me at: [asismelgarejo@gmail.com](asismelgarejo.com@gmail.com)
 
 ### 🌟 Fun Fact:
 
