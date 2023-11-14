@@ -67,7 +67,3 @@ Thanks for stopping by! 😊
 <div align="center">
   <img src="https://github.com/your-username/your-repo/raw/main/assets/footer.gif" alt="Footer Image" width="800" height="200">
 </div>
-
----
-
-*Note: Replace placeholders like `[Your Name]`, `[Your Website]`, `[Your LinkedIn]`, `[Your Email]`, `[Your Twitter]`, `[Your Handle]`, `[Your Stats URL]`, `[Your Project URLs]`, `[Your GitHub Repo URL]`, and image URLs (`[Your Banner Image URL]`, `[Your Footer Image URL]`) with your actual information.*
