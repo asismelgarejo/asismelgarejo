@@ -5,8 +5,7 @@
 </div>
 
 ## 👋 Hi there, I'm [Asis Melgarejo](https://asis-portfolio-landing.vercel.app/)!
-
-I'm a passionate Full Stack Developer from Peru with over 2 years of hands-on experience. My journey in the coding universe has led me to specialize in a variety of technologies and methodologies. Let me give you a glimpse of my expertise:
+I'm a Software engineer specialized in backend development with TS, Golang and Python, cloud infrastructure with AWS in the fintech field. Over 2 years of hands-on experience. My journey in the coding universe has led me to specialize in a variety of technologies and methodologies. Let me give you a glimpse of my expertise...
 
 ### 🚀 My Specializations:
 
