@@ -20,11 +20,6 @@ I'm a passionate Full Stack Developer from Peru with over 2 years of hands-on ex
 - **Frameworks:** Nest.js, Node.js, Express.js
 - **Technologies:** GraphQL Apollo Server, Sequelize
 
-#### React Frontend Development
-- **Frameworks:** Next.js
-- **Libraries:** Framer Motion, React Query, React Hook Forms
-- **Authentication:** Firebase
-
 #### DevOps AWS
 - **CI/CD:** Continuous Integration and Continuous Deployment on AWS
 
